@@ -1,0 +1,16 @@
+{
+  "name": "sitefix-test-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A small Next.js site with planted website problems, for testing SiteFix's fixes.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "^19",
+    "react-dom": "^19"
+  }
+}
