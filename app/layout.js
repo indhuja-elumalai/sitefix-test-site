@@ -9,7 +9,7 @@ export const metadata = {
 // PLANTED: <html> has no lang attribute
 export default function RootLayout({ children }) {
   return (
-    <html>
+    <html lang="en">
       <body>
         <header className="top">
           <Link href="/" className="brand">Brightleaf Studio</Link>
