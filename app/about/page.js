@@ -10,8 +10,8 @@ export default function About() {
       </p>
       <h1>Our team</h1>
       <p>
-        Every client works with the same two people from the first call to launch day, so you will recieve answers
-        from someone who knows your project. We keep design and development in one room rather than in seperate
+        Every client works with the same two people from the first call to launch day, so you will receive answers
+        from someone who knows your project. We keep design and development in one room rather than in separate
         teams, which means fewer handovers and fewer surprises.
       </p>
       <p>
